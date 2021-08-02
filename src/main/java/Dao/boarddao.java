@@ -10,7 +10,7 @@ import DTO.Board;
 
 public class boarddao {
 	
-	private Connection conn;
+	private Connection conn; 
 	private ResultSet resultSet;
 
 
